@@ -10,3 +10,4 @@ def solution(s):
         else:
             answer.append(i - target)
     return answer
+
